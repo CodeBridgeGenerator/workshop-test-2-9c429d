@@ -1,0 +1,14 @@
+[
+    {
+        "latihan": "Latihan 1",
+        "pelulusan": "Pelulusan 1",
+        "status": "Pending",
+        "komen": "Komen 1"
+    },
+    {
+        "latihan": "Latihan 2",
+        "pelulusan": "Pelulusan 2",
+        "status": "Complete",
+        "komen": "Komen 2"
+    }
+]

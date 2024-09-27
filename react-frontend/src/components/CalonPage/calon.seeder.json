@@ -1,0 +1,12 @@
+[
+    {
+        "pengguna": "Pengguna 1",
+        "latihan": "Latihan 1",
+        "status": "Pending"
+    },
+    {
+        "pengguna": "Pengguna 2",
+        "latihan": "Latihan 2",
+        "status": "Complete"
+    }
+]
